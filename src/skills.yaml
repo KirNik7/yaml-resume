@@ -1,0 +1,39 @@
+categories:
+  - &lang
+    Languages
+  - &db
+    Databases
+  - &rcs
+    Revision Control Systems
+
+skills:
+- name: Python
+  level: junior
+  category: *lang
+  labels:
+    - programming
+- name: C#
+  level: junior
+  category: *lang
+  labels:
+    - programming
+- name: JavaScript
+  level: junior
+  category: *lang
+  labels:
+    - programming
+- name: MySQL
+  level: junior
+  category: *db
+  labels:
+    - databases
+- name: Microsoft SQL Server
+  level: junior
+  category: *db
+  labels:
+    - databases
+- name: GitHub
+  level: junior
+  category: *rcs
+  labels:
+    - tools

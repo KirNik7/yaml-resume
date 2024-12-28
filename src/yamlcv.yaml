@@ -1,0 +1,17 @@
+details:
+  first_name: Kirill
+  last_name: Nikitin
+  title: Web Developer
+
+profile: |
+  I'm studying at TUSUR, studying web development. I use JavaScript, MySQL, and Python. In addition, I have the skills to develop WPF and WindowsForms applications in C#.
+
+contact:
+  - text: kirnik2003@mail.ru
+    url: "mailto:kirnik2003@mail.ru"
+    icon: email
+  - text: GitHub
+    url: "https://github.com/KirNik7"
+    icon: github
+
+technical: []
